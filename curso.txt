@@ -1,0 +1,7 @@
+git init: para iniciar el git dentro del proyecto.
+git status: estado. archivos que se agregaron y archivos que no.
+
+branch master = rama maestra
+Untracked files = archivos que no estan dispuestos a ser commiteados.
+Para ser commiteado: git add index.html
+
