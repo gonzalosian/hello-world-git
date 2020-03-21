@@ -5,3 +5,7 @@ branch master = rama maestra
 Untracked files = archivos que no estan dispuestos a ser commiteados.
 Para ser commiteado: git add index.html
 
+git commit -m "Se crea index y curso.txt"
+
+nothing to commit, working tree clean: nada a commitear, arbol de trabajo limpio.
+
