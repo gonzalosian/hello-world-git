@@ -9,3 +9,5 @@ git commit -m "Se crea index y curso.txt"
 
 nothing to commit, working tree clean: nada a commitear, arbol de trabajo limpio.
 
+git add --all
+
