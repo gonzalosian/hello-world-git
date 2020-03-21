@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Cabeceras
-=======
->>>>>>> Markdown
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -13,11 +10,8 @@ Underline 1
 ---
 Underline 2
 ===
-<<<<<<< HEAD
-# Formatos de énfasis
-=======
 
->>>>>>> Markdown
+# Formatos de énfasis
 letra *italica* de la 1er forma <br>
 letra _italica_ de la 2da forma
 - letra italica de la 1er forma
@@ -25,7 +19,6 @@ letra _italica_ de la 2da forma
 - formato **bold** de la 1er forma
 - formato __bold__ de la 2da forma
 - formato ~~tachado~~
-<<<<<<< HEAD
 
 # Links
 [Link a Google](http://www.google.com) <br>
@@ -72,5 +65,3 @@ Salto 1
 Salto 2
 
 Salto 3
-=======
->>>>>>> Markdown
