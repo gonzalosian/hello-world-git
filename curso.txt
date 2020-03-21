@@ -11,3 +11,4 @@ nothing to commit, working tree clean: nada a commitear, arbol de trabajo limpio
 
 git add --all
 
+ignore and stop traking: para ingnorar archivo tambien en repositorio git
